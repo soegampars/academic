@@ -1,13 +1,13 @@
-title: I'm learning!
-author: Sugampret Jaya
-email: djadoel97@gmail.com
+title: Personal Academic Blog
+author: Immanuel Satya
+email: satya.immanuel@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Sugampret Jaya is currently learning how to build his personal blog
-  using Jekyll and GitHub repository. Wish me some joy and fun learning all these new things!
+  This blog is currently under development. In the future, this blog will be used to
+  provide updates about my projects and my academic activity.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
+##twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
+github_username:  soegampars # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
