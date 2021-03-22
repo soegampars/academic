@@ -1,6 +1,7 @@
 title: Immanuel Satya
-author: Immanuel Satya
-email: satya.immanuel@gmail.com
+author:
+  name: Immanuel Satya
+  email: "satya.immanuel@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
   I currently do research for fun, mainly about spatial methods and regional economics. Aspiring academic.
 
@@ -11,3 +12,8 @@ github_username:  soegampars # DO NOT include the @ character, or else the build
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+
+header_pages:
+  - about.md
+  - cv.md
+  - research.md
