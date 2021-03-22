@@ -11,4 +11,4 @@ github_username:  soegampars # DO NOT include the @ character, or else the build
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
-theme: minima
+theme: jekyll-theme-minimal
