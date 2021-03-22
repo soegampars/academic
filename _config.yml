@@ -1,18 +1,60 @@
 title: Immanuel Satya
-name: Immanuel Satya
-email: "satya.immanuel@gmail.com"
-description: > # this means to ignore newlines until "baseurl:"
+author: 
+  name: Immanuel Satya
+  email: satya.immanuel@gmail.com
+description: > # this means to ignore newlines until "show_excerpts:"
   I currently do research for fun, mainly about spatial methods and regional economics. Aspiring academic.
 
-# social links
-##twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  soegampars # DO NOT include the @ character, or else the build will fail!
+show_excerpts: false # set to true to show excerpts on the homepage
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
 
-theme: minima
+  # generate social links in footer
+  social_links:
+    #twitter: jekyllrb
+    github:  soegampars
+    # devto: jekyll
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # linkedin: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
 
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+    # GitLab instances
+    # gitlab:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
 header_pages:
   - about.md
   - cv.md
   - research.md
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
