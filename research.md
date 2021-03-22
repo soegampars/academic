@@ -1,4 +1,8 @@
-# Research Activity
+---
+layout: page
+title: Research Activity
+permalink: /research/
+---
 
 My research interest are mainly on the topics of spatial methods and regional economics. Below is the list of my published works:
 

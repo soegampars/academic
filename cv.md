@@ -1,5 +1,8 @@
-# Curriculum Vitae
-
+---
+layout: page
+title: Curriculum Vitae
+permalink: /cv/
+---
 ## Education
 - 2020: Sarjana Ekonomi (S.E.), Universitas Gadjah Mada, Yogyakarta
 
