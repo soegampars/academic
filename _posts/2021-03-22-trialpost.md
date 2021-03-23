@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello, Visitors!"
+title: "Prologue"
 categories: general
 author: Immanuel Satya Pekerti
 #meta: "Springfield"
