@@ -8,13 +8,13 @@ My research interest are mainly on the topics of spatial methods and regional ec
 
 ## Published Papers
 
-Pekerti, I.S. (2021) Impact of Socio-economic Vulnerability towards Covid-19 Force of Infection in Jakarta, Bulletin of Indonesian Economic Studies, DOI: 10.1080/00074918.2021.1914321
+Pekerti, I.S. (2021) _Impact of Socio-economic Vulnerability towards Covid-19 Force of Infection in Jakarta_, Bulletin of Indonesian Economic Studies, DOI: 10.1080/00074918.2021.1914321
 
-Asyahid, E.A. & Pekerti, I.S. Forthcoming. Economic Impact of Natural Disasters, Spillovers, and Role of Human Development: Case of Indonesia, Letters in Spatial and Resource Sciences.
+Asyahid, E.A. & Pekerti, I.S. Forthcoming. _Economic Impact of Natural Disasters, Spillovers, and Role of Human Development: Case of Indonesia_, Letters in Spatial and Resource Sciences.
 
 ## Book Chapters
 
-Pekerti, I.S. (2021) Preliminary Evaluation of PSBB and Transitional PSBB Effectiveness in DKI Jakarta, IRSA Book Series No. 19. IRSA Press. Google Books: [Available for free][gbooks]
+Pekerti, I.S. (2021) Preliminary Evaluation of PSBB and Transitional PSBB Effectiveness in DKI Jakarta, _IRSA Book Series No. 19_. IRSA Press. Google Books: [Available for free][gbooks]
 
 ## Ongoing Projects
 
