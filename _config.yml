@@ -1,5 +1,5 @@
 title: Immanuel Satya - Academic Blog
-author: 
+author:
   name: Immanuel Satya
   email: satya.immanuel@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
@@ -14,7 +14,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    #twitter: jekyllrb
+    twitter: satya_immanuel
     github:  soegampars
     # devto: jekyll
     # dribbble: jekyll
