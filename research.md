@@ -10,7 +10,7 @@ My research interest are mainly on the topics of spatial methods and regional ec
 
 Pekerti, I.S. (2021) _Impact of Socio-economic Vulnerability towards Covid-19 Force of Infection in Jakarta_, Bulletin of Indonesian Economic Studies, DOI: 10.1080/00074918.2021.1914321
 
-Asyahid, E.A. & Pekerti, I.S. Forthcoming. _Economic Impact of Natural Disasters, Spillovers, and Role of Human Development: Case of Indonesia_, Letters in Spatial and Resource Sciences.
+Asyahid, E.A. & Pekerti, I.S. 2022. _Economic Impact of Natural Disasters, Spillovers, and Role of Human Development: Case of Indonesia_, Letters in Spatial and Resource Sciences. DOI: 10.1007/s12076-022-00307-7
 
 ## Book Chapters
 
