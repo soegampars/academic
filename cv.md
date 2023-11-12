@@ -4,6 +4,7 @@ title: Curriculum Vitae
 permalink: /cv/
 ---
 ## Education
+- 2023-    : Politecnico di Milano, Milan, Italy
 - 2022-2023: Economic Geography, Rijksuniversiteit Groningen, Groningen
 - 2015-2020: Economics, Universitas Gadjah Mada, Yogyakarta
 
