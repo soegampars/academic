@@ -18,7 +18,5 @@ Pekerti, I.S. (2021) Preliminary Evaluation of PSBB and Transitional PSBB Effect
 
 ## Ongoing Projects
 
-- Research collaboration with QuaRCS lab, Nagoya University
-
 [psbb]: https://www.researchgate.net/publication/344425963_Preliminary_Evaluation_of_PSBB_and_Transitional_PSBB_Effectiveness_in_DKI_Jakarta
 [gbooks]: https://www.google.co.id/books/edition/Regional_Perspectives_of_COVID_19_in_Ind/D1NKEAAAQBAJ?hl=en&gbpv=0&kptab=overview
